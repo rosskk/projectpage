@@ -1,0 +1,44 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: skyblue;
+  margin: 0;
+
+}
+
+#nav ul {
+  list-style-type:none;
+  height: 50px;
+  margin: 0px;
+  padding: 0px;
+  background-color:ghostwhite;
+
+}
+#nav li {
+  display: inline-block;
+
+}
+#nav a {
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#project-wrapper {
+  text-align: center;
+}
+
+.project1 {
+  width: 300px;
+  margin: 15px;
+  float: left;
+}
+.project2 {
+  width: 300px;
+  margin: 15px;
+  float: right;
+}
